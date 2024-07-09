@@ -1,0 +1,19 @@
+.txt{
+    font-size: larger;
+    background-color: white;
+    border: 1px solid rgb(240, 235, 235);
+    padding: 5px;
+}
+.btn{
+    font-size: larger;
+    border: 1px solid rgb(240, 235, 235);
+    background-color: white;
+    padding: 4px;
+}
+.search{
+    text-align: center;
+    margin-top: 25px;
+    width: 300px;
+    height: 40px;
+    margin-left: 500px;
+}
